@@ -1,1 +1,1 @@
-# go_serverless_project
+# Go Serverless Project
